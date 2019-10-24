@@ -1,0 +1,8 @@
+region = "us-central1"
+gcp_project = "cloudglobaldelivery-1000135575"
+credentials= "credentials.json"
+bitbucketvpc = "default"
+bitbucketsub = "default"
+instance_name = "bitbucket"
+bitbucket_instance_ip_name = "bitbucketip"
+bitbucket_instance_ip_region = "us-east1"
